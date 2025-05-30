@@ -52,3 +52,5 @@ Join our community of developers creating universal apps.
 [Pshycopedia documentatație.docx](https://github.com/user-attachments/files/20516843/Pshycopedia.documentata.ie.docx)
 
 
+
+

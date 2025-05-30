@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "Pshycopedia",
+    "slug": "pshycopedia",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/brain-icon.png",
+    "scheme": "pshycopedia",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/brain-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.arlin.pshycopedia"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static",
+      "favicon": "./assets/images/brain-icon.png"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "expo-splash-screen",
+        {
+          "image": "./assets/images/brain-icon.png",
+          "imageWidth": 200,
+          "resizeMode": "contain",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "da80d4a9-6b40-4afe-9500-04d7521689f6"
+      }
+    }
+  }
+}

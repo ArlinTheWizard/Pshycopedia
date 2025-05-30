@@ -52,5 +52,14 @@ Join our community of developers creating universal apps.
 [Pshycopedia documentatație.docx](https://github.com/user-attachments/files/20516843/Pshycopedia.documentata.ie.docx)
 
 
-
-
+![sanatate_pg2](https://github.com/user-attachments/assets/9f88003f-86b8-4736-bec6-15e4d1e7d680)
+![sanatate_pg3](https://github.com/user-attachments/assets/49497b4c-becb-454d-ae9d-d9af9a5032a0)
+![sanatate_pg4](https://github.com/user-attachments/assets/5f8401cc-82b8-4cb8-b5e0-cc625225afb7)
+![sanatate_pg5](https://github.com/user-attachments/assets/f46fc93d-0ce7-4741-99e9-29cfa40fced6)
+![sanatate_pg6](https://github.com/user-attachments/assets/f1714483-1179-41b8-891d-14be57f5afe8)
+![chestionar1](https://github.com/user-attachments/assets/fcabbc15-8049-43e8-bdc1-5e2ddcfb9253)
+![chestionar2](https://github.com/user-attachments/assets/60c60a3b-31f4-41ff-aae8-fdc45eebbe7e)
+![chestionar3](https://github.com/user-attachments/assets/f15a5f98-269c-4497-ba9e-120305f15414)
+![chestionar4](https://github.com/user-attachments/assets/94b6efeb-f083-498c-b912-73b5ad6bcbda)
+![chestionar5](https://github.com/user-attachments/assets/86fa8f86-0910-44f3-8cd8-9f736f2ccef5)
+![gallery](https://github.com/user-attachments/assets/0e1f77d3-9f00-478c-9ead-e0f1b302eaff)
